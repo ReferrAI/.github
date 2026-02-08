@@ -24,14 +24,14 @@ Our work is designed to be:
 
 ## Projects
 
-### 🧩 AI Intent Provenance Protocol (AIPP)
+### 🧩 AI Origin Protocol (AIOP)
 A lightweight, cryptographically verifiable protocol for documenting **where AI-driven commerce intent originated**.
 
 - No user identity
 - No payments or settlement logic
 - Complements AdCP, RMNs, and provenance standards
 
-👉 See the `ai-intent-provenance-protocol` repository.
+👉 See the `ai-origin-protocol` repository.
 
 ---
 
